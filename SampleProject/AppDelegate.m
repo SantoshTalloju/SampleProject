@@ -19,6 +19,9 @@
     // Override point for customization after application launch.
     
     NSLog(@"github");
+    
+     NSLog(@"sample message github");
+    
     return YES;
 }
 
