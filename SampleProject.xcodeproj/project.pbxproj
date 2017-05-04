@@ -269,10 +269,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Siddharth Reddy (BTXLF2B3YU)";
 				INFOPLIST_FILE = SampleProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.redjee.SampleProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e381b5fc-3de5-40e1-9433-6a2589f72391";
 			};
 			name = Debug;
 		};
@@ -280,10 +282,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Siddharth Reddy (BTXLF2B3YU)";
 				INFOPLIST_FILE = SampleProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.redjee.SampleProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e381b5fc-3de5-40e1-9433-6a2589f72391";
 			};
 			name = Release;
 		};
